@@ -122,35 +122,6 @@
             }
           },
           {
-            "id": "72ba38b3b4fb7bcf",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "タグ"
-            }
-          },
-          {
-            "id": "2e149d5d53667a17",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "すべてのプロパティ"
-            }
-          },
-          {
             "id": "2678a33158a9db93",
             "type": "leaf",
             "state": {
@@ -175,16 +146,15 @@
               "title": "Copilot Chat"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 427.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -193,10 +163,11 @@
       "command-palette:コマンドパレットを開く": false,
       "bases:新規ベースを作成": false,
       "agentfiles:Agentfiles": false,
-      "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8d660c590a0bbcc",
-  "lastOpenFiles": []
+  "active": "60d2dfa73b5add61",
+  "lastOpenFiles": [
+    "README.md"
+  ]
 }

@@ -1,0 +1,29 @@
+{
+  "tools": {
+    "codex": {
+      "enabled": false,
+      "customPaths": []
+    },
+    "claude-code": {
+      "enabled": false,
+      "customPaths": []
+    },
+    "copilot": {
+      "enabled": false,
+      "customPaths": []
+    }
+  },
+  "watchEnabled": true,
+  "watchDebounceMs": 500,
+  "deepSearchDefault": false,
+  "deepSearchScope": "both",
+  "favorites": [],
+  "collections": {},
+  "customScanPaths": [
+    "E:\\Document\\rep\\kitaura\\dev-ctx"
+  ],
+  "namingMode": "auto",
+  "projectScanEnabled": true,
+  "projectsHomeDir": "",
+  "packageRunner": "auto"
+}
