@@ -1,7 +1,11 @@
 ---
-name: setup
-description: my memory
+name: SETUP
+description: setup memory for development.
+tags:
+  - memo
 ---
+# setup for deveopment
+
 ## Obsidian
 Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
 

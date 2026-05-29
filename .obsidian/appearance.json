@@ -11,12 +11,15 @@
     "banner",
     "header",
     "blockquote",
-    "compact-properties",
     "excel",
     "table",
     "tag",
     "top-fade",
-    "unordered-list"
+    "unordered-list",
+    "metadata",
+    "properties",
+    "title",
+    "file"
   ],
   "cssTheme": "Things"
 }
