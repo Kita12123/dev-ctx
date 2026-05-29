@@ -5,13 +5,24 @@ tags:
   - memo
 ---
 # dev-ctx
-Development Context for AI Aenget.
+I share my knowlage about development.
 
 ## Usage
 
-[Skills](https://github.com/vercel-labs/skills)
+### 1. AI Agent skills.
+**reference**: [Skills](https://github.com/vercel-labs/skills)
+
 Setup skills for AI Agent.
 If you want to get skills, input this command in cmd.
 ```shell
 npx skills add Kita12123/dev-ctx.git
 ```
+
+### 2. Obsidian settings.
+**reference** [Obsidian](https://docs.obsidian.md/Home)
+
+Setup Obsidian environment for development.
+If you want to get settings, please copy this repository to your vault's `.obsidian/snippets` directory.
+
+↓ Like this.
+![[Pasted image 20260529182459.png|500]]
