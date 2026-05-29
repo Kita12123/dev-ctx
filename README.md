@@ -25,4 +25,4 @@ Setup Obsidian environment for development.
 If you want to get settings, please copy this repository to your vault's `.obsidian/snippets` directory.
 
 ↓ Like this.
-![[Pasted image 20260529182459.png|500]]
+![](Pasted%20image%2020260529183605.png)
