@@ -1,5 +1,5 @@
 {
-  "nodePath": "default",
+  "nodePath": "..\\nodejs",
   "nodePathUpdatedToNode20": false,
   "nodePathUpdatedToNode22": false,
   "enabled": true,

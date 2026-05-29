@@ -2,5 +2,6 @@
   "agentfiles",
   "obsidian-git",
   "github-sync",
-  "github-copilot"
+  "github-copilot",
+  "obsidian-shellcommands"
 ]
