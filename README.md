@@ -3,6 +3,7 @@ name: README
 description: short
 tags:
   - memo
+cover: https://cdn2.thecatapi.com/images/e9c.jpg
 ---
 # dev-ctx
 I share my knowlage about development.
@@ -22,7 +23,7 @@ npx skills add Kita12123/dev-ctx.git
 **reference** [Obsidian](https://docs.obsidian.md/Home)
 
 Setup Obsidian environment for development.
-If you want to get settings, please copy this repository to your vault's `.obsidian/snippets` directory.
+If you want to get settings, please copy this repository to your vault's `.obsidian` directory.
 
 ↓ Like this.
-![](docs/resources/obsidian-preview.png)
+![](imgs/obsidian-preview.png)

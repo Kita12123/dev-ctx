@@ -3,6 +3,7 @@ name: SETUP
 description: setup memory for development.
 tags:
   - memo
+cover: https://cdn2.thecatapi.com/images/2h1.jpg
 ---
 # setup for deveopment
 

@@ -1,2 +1,5 @@
 # Obsidian
 .obsidian/workspace.json
+
+# Enviroment
+.env

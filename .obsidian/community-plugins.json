@@ -1,7 +1,7 @@
 [
-  "agentfiles",
   "obsidian-git",
   "github-sync",
   "github-copilot",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "pretty-properties"
 ]
