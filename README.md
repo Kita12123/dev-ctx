@@ -27,3 +27,7 @@ If you want to get settings, please copy this repository to your vault's `.obsid
 
 ↓ Like this.
 ![](imgs/obsidian-preview.png)
+
+## Setup
+
+Please show [SETUP.md](SETUP.md).

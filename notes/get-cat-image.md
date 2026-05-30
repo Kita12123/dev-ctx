@@ -1,6 +1,6 @@
 ---
 name: get-cat-image
-description: This is a skill to get ramdom image of cats from 'The Cat API'.
+description: Get random image url. You can use it to get url for cover image, sample image, or test image from 'The Cat API'.
 tags:
   - skill
 cover: https://cdn2.thecatapi.com/images/cj9.jpg
