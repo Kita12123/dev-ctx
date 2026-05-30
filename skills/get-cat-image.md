@@ -15,6 +15,7 @@ env:
 # What is 'The Cat API'?
 'The Cat API' is a free API that provides random images of cats.
 You can setup easily and get images of cats by using this API.
+**reference:** [The Cat API Documentation](https://thecatapi.com/)
 
 # Setup
 1. Sign up for an account on [The Cat API](https://thecatapi.com/signup).
@@ -24,7 +25,7 @@ You can setup easily and get images of cats by using this API.
 
 # Getting Started
 1. Get API Key from environment variable `CAT_API_KEY`.
-2. You can get image of cats by GET request to this [URL](https://api.thecatapi.com/v1/images/search?api_key=${CAT_API_KEY}).
+2. You can get image of cats by GET request to URL: `https://api.thecatapi.com/v1/images/search?api_key=${CAT_API_KEY}`.
 3. The response will be a JSON object containing the URL of the cat image. example:
 ```json
 [
@@ -38,3 +39,18 @@ You can setup easily and get images of cats by using this API.
 ]
 ```
 4. You can use the 'url' field to display the cat image in your application or website.
+
+# Extensions
+- You can adjust th size of the image by adding `size` parameter to the request URL.
+  - `size=thumb` for thumbnail images (200px on the longest side)
+  - `size=small` for small images (400px on the longest side)
+  - `size=med` for medium images (800px on the longest side)
+  - `size=full` for full-size images (original size)
+
+- You can get multiple images at once by adding `limit` parameter to the request URL.
+  - `limit=5` to get 5 images at once.
+
+# Workflow
+- You can get image with a height of 400px or less for cover metadata of your note by flow like this:
+  1. Get image url of cats by GET request to URL: `https://api.thecatapi.com/v1/images/search?api_key=${CAT_API_KEY}&size=small&limit=5`.
+  2. Choose one with a height of 400px or less from the response and set it as cover metadata of your note.
