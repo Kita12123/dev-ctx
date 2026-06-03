@@ -50,7 +50,7 @@ You can setup easily and get images of cats by using this API.
 - You can get multiple images at once by adding `limit` parameter to the request URL.
   - `limit=5` to get 5 images at once.
 
-# Workflow
+# Workflow: Get Image URL for cover metadata of document
 - You can get image with a height of 400px or less for cover metadata of your note by flow like this:
   1. Get image url of cats by GET request to URL: `https://api.thecatapi.com/v1/images/search?api_key=${CAT_API_KEY}&size=small&limit=5`.
   2. Choose one with a height of 400px or less from the response and set it as cover metadata of your note.
