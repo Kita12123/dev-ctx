@@ -1,9 +1,9 @@
 ---
 name: obsidian
-description: what is obsidian and how to use it
+description: what is obsidian and how to use it.
 tags:
   - knowledge
-cover: https://cdn2.thecatapi.com/images/6j7.jpg
+thumb: https://cdn2.thecatapi.com/images/6j7.jpg
 ---
 # Obsidian
 

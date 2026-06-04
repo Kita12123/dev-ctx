@@ -1,7 +1,9 @@
 ---
 name: nswag
-description: what is nswag and how to use it
-cover: https://cdn2.thecatapi.com/images/MTc4NzYzMg.jpg
+description: what is nswag and how to use it.
+tags:
+  - knowledge
+thumb: https://cdn2.thecatapi.com/images/MTc4NzYzMg.jpg
 ---
 # NSwag
 

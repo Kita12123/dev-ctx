@@ -3,7 +3,7 @@ name: get-cat-image
 description: Get random image url. You can use it to get url for cover image, sample image, or test image from 'The Cat API'.
 tags:
   - skill
-cover: https://cdn2.thecatapi.com/images/cj9.jpg
+thumb: https://cdn2.thecatapi.com/images/cj9.jpg
 env:
   - CAT_API_KEY
 ---

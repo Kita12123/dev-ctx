@@ -3,7 +3,7 @@ name: README
 description: short
 tags:
   - memo
-cover: https://cdn2.thecatapi.com/images/e9c.jpg
+thumb: https://cdn2.thecatapi.com/images/e9c.jpg
 ---
 # dev-ctx
 I share my knowlage about development.
