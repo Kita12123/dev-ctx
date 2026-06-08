@@ -19,11 +19,11 @@ env:
 1. Sign up for a Redmine account.
 2. Setting up Redmine to enable API access as follows: Admin > Settings > Synchronization > Enable REST API ON.
 3. Issue API access key from My Account > API access key.
-4. Store the API key, Redmine URL, and project ID in the `.env` file in the root directory of the project.
+4. Store the API key, Redmine URL, and project ID in the `.env` file in the root directory of the project or in your environment variables.
 
 ## API Endpoints
 Please refer to the official Redmine API documentation for detailed infomation on available endpoints and their usage: [Redmine API Documentation](https://www.redmine.org/projects/redmine/wiki/Rest_api)
 
 ## Workflow
-1. Get enviroment variables: REDMINE_API_KEY, REDMINE_URL, and REDMINE_PROJECT_ID from `.env` file in the root directory of the project.
+1. Get enviroment variables: REDMINE_API_KEY, REDMINE_URL, and REDMINE_PROJECT_ID from `.env` file in the root directory of the project or from your environment variables.
 2. Request the Redmine API using the provided API key and URL to perform desired operations (e.g., creating an issue, updating a project, etc.).
