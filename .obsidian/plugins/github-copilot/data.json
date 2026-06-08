@@ -1,13 +1,13 @@
 {
-  "nodePath": "..\\nodejs",
-  "nodePathUpdatedToNode20": false,
-  "nodePathUpdatedToNode22": false,
+  "nodePath": "C:\\Users\\Kitaura\\AppData\\Local\\Programs\\nodejs\\node.exe",
+  "nodePathUpdatedToNode20": true,
+  "nodePathUpdatedToNode22": true,
   "enabled": true,
   "hotkeys": {
     "accept": "Tab",
     "cancel": "Escape",
-    "request": "Cmd-Shift-/",
-    "partial": "Cmd-Shift-.",
+    "request": "Ctrl-.",
+    "partial": "Ctrl-./",
     "next": "Cmd-Shift-ArrowDown",
     "disable": "Cmd-Shift-ArrowRight"
   },
