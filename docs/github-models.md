@@ -2,6 +2,7 @@
 name: github-models
 tags:
   - knowledge
+thumb: https://cdn2.thecatapi.com/images/a7m.jpg
 ---
 # GitHub Models
 
